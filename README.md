@@ -1,5 +1,3 @@
-# OrtegaUAsking-Questions---Endpoint
-
 //Name: Ulises Ortega
 //Date: 10.25.22
 //Project: Asking Questions
@@ -8,12 +6,11 @@
 //an answer.
 
 
-//Description: This Endpoint request Two inputs from the user and then it will output the name and the time the user woke up.
-
-//in the example bellow your local host will change,
-
-//When you Run and Debug this API in your computer.
-
-//folow the structure below and replace Answer1 with your Name and Answer 2 with the time that you woke up and press enter
-
-//https://localhost:7108/asking/questions/Answer1/Answer2  
+/*Description: This Endpoint request Two inputs from the user and then it will output the name and the time the user woke up.
+The link below represent the structure to be follow in order for the Endpoint to work
+Your localhost will change when you Run and Debig this Endpoint in your computer
+You need to replace the word Answer1 and Answer 2 for you own numbers
+https://localhost:7108/asking/questions/Answer1/Answer2
+You sould get the following output: 
+What is your name: Answer1 What time did you woke up today: Answer2
+*/
