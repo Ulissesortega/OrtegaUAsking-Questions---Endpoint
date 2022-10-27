@@ -8,9 +8,11 @@
 //an answer.
 
 
-//Description: in the example bellow your local host will change,
+//Description: This Endpoint request Two inputs from the user and then it will output the name and the time the user woke up.
 
-//When you Run and Debug this API in your computer the local host will change
+//in the example bellow your local host will change,
+
+//When you Run and Debug this API in your computer.
 
 //folow the structure below and replace Answer1 with your Name and Answer 2 with the time that you woke up and press enter
 
