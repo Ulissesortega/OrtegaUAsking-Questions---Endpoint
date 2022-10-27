@@ -9,6 +9,9 @@
 
 
 //Description: in the example bellow your local host will change,
-//When you run and degub this API in your computer the local host will change
+
+//When you Run and Debug this API in your computer the local host will change
+
 //folow the structure below and replace Answer1 with your Name and Answer 2 with the time that you woke up and press enter
+
 //https://localhost:7108/asking/questions/Answer1/Answer2  
